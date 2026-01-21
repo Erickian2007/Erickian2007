@@ -1,10 +1,22 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on Godot Engine
-- 🌱 I’m currently learning C#, .NET, and Java
-- 👯 I’m looking to collaborate on indie game projects or multiplayer systems using Godot
-- 🤔 I’m looking for help with networking in Godot and structuring scalable game architecture
-- 💬 Ask me about game development, Godot scripting (GDScript/C#), or how to start a dev project from scratch
-- 📫 How to reach Discord ei.dev
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I once prototyped a full game in under 48 hours during a game jam—and it worked!
+╔══════════════════════════════════════════════════════╗
+║ 01001000 01000001 01000011 01001011 01000101 01010010║
+╚══════════════════════════════════════════════════════╝
+┌─ domains ────────────────────────────────┐
+│ game systems                             │
+│ multiplayer / netcode                    │
+│ backend                                  │
+│ artificial intelligence                  │
+└──────────────────────────────────────────┘
+┌─ stack ──────────────────────────────────┐
+│ godot  ·  c#  ·  .net  ·  java  ·  ai    │
+└──────────────────────────────────────────┘
+┌─ backend ────────────────────────────────┐
+│ apis · auth · data · servers             │
+└──────────────────────────────────────────┘
+┌─ behavior ───────────────────────────────┐
+│ build > talk                             │
+└──────────────────────────────────────────┘
+┌─ access ─────────────────────────────────┐
+│ discord :: ei.dev                        │
+└──────────────────────────────────────────┘
+[ status: running ]
