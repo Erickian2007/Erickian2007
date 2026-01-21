@@ -9,7 +9,4 @@
 • Game Dev: Multiplayer · Netcode · AI Systems · Game Architecture
 • DevOps: CI/CD · AWS/GCP · Linux Servers
 
--> Principle: BUILD > TALK \n
--> Contact: Discord: ei.dev \n
--> Status: Running
-
+-> Principle: BUILD > TALK | Contact: Discord: ei.dev | Status: Running
