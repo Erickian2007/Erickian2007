@@ -9,4 +9,4 @@ Skills:
 • Game Dev: Multiplayer · Netcode · AI Systems · Game Architecture
 • DevOps: CI/CD · AWS/GCP · Linux Servers
 
-Principle: BUILD > TALK | Contact: Discord: __ian.reis__ | Status: Running
+Principle: BUILD > TALK | Contact: Discord: ___ian.reis___ | Status: Running
