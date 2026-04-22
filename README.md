@@ -18,4 +18,3 @@
 **Contact:** Discord (`ian.reis_`)
 <br />
 <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/1e753d74-c1d1-4998-a56f-c3efa57d0582" />
-<img src="https://media1.tenor.com/m/3Sykma8la9gAAAAC/reze-tongue-out-reze-chainsaw-man-moving-her-head.gif" width="128" height="128" alt="a girl with long purple hair and green eyes is sticking her tongue out ." fetchpriority="high" style="max-width: 272px;">
